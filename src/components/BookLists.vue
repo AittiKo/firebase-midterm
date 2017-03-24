@@ -9,7 +9,7 @@
           <thead>
             <tr>
               <th>
-                No.
+                #
               </th>
               <th>
                 Title
